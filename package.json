@@ -1,0 +1,16 @@
+{
+    "name": "exam",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "test-build": "echo Build script works"
+    },
+    "dependencies": {
+        "@vue/cli-service": "^5.0.8",
+        "firebase": "^11.0.1",
+        "vue": "^3.0.0",
+        "vue-router": "^4.4.5"
+    }
+}
